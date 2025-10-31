@@ -1,0 +1,90 @@
+{
+  "Teknik Informatika": [
+    {
+      "title": "Web Developer",
+      "description": "Membangun dan mengelola aplikasi web responsif dan dinamis."
+    },
+    {
+      "title": "Software Engineer",
+      "description": "Merancang dan mengembangkan perangkat lunak untuk berbagai kebutuhan industri."
+    },
+    {
+      "title": "IT Support",
+      "description": "Memberikan dukungan teknis dan pemeliharaan sistem komputer."
+    },
+    {
+      "title": "UI/UX Designer",
+      "description": "Merancang antarmuka pengguna yang intuitif dan menarik."
+    },
+    {
+      "title": "Mobile App Developer",
+      "description": "Membuat aplikasi mobile untuk Android dan iOS."
+    }
+  ],
+  "Teknik Otomotif": [
+    {
+      "title": "Teknisi Kendaraan",
+      "description": "Melakukan perawatan dan perbaikan kendaraan bermotor."
+    },
+    {
+      "title": "Spesialis Diagnostik",
+      "description": "Menganalisis kerusakan kendaraan dengan alat diagnostik modern."
+    },
+    {
+      "title": "Supervisor Bengkel",
+      "description": "Mengelola operasional bengkel dan tim teknisi."
+    },
+    {
+      "title": "Perancang Sistem Otomotif",
+      "description": "Merancang sistem mekanik dan elektronik kendaraan."
+    },
+    {
+      "title": "Quality Inspector Otomotif",
+      "description": "Memastikan kualitas komponen dan perakitan kendaraan."
+    }
+  ],
+  "Teknik Elektronika Industri": [
+    {
+      "title": "Teknisi Elektronika",
+      "description": "Merawat dan memperbaiki sistem elektronika industri."
+    },
+    {
+      "title": "Automation Engineer",
+      "description": "Merancang sistem otomatisasi untuk lini produksi."
+    },
+    {
+      "title": "PLC Programmer",
+      "description": "Mengembangkan program untuk pengendali logika terprogram."
+    },
+    {
+      "title": "Maintenance Elektronik",
+      "description": "Menjaga performa sistem elektronik dalam lingkungan industri."
+    },
+    {
+      "title": "Instrument Engineer",
+      "description": "Mengelola alat ukur dan kontrol dalam proses produksi."
+    }
+  ],
+  "Teknik Mesin": [
+    {
+      "title": "Operator Mesin Produksi",
+      "description": "Mengoperasikan mesin-mesin industri berat."
+    },
+    {
+      "title": "Mechanical Designer",
+      "description": "Merancang komponen mekanik untuk produk dan mesin."
+    },
+    {
+      "title": "Maintenance Engineer",
+      "description": "Menjaga performa dan keandalan mesin produksi."
+    },
+    {
+      "title": "Quality Control Mesin",
+      "description": "Memastikan komponen mekanik memenuhi standar kualitas."
+    },
+    {
+      "title": "Manufacturing Engineer",
+      "description": "Mengoptimalkan proses produksi dan efisiensi mesin."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Politeknik Baja Tegal": {
+    "Teknik Komputer dan Jaringan": [
+      {
+        "nama_mitra": "PT Telkom Indonesia Tbk",
+        "bidang": "Jaringan & Telekomunikasi",
+        "deskripsi": "Kerja sama dalam bidang pelatihan administrasi jaringan dan sertifikasi teknisi jaringan.",
+        "lokasi": "Tegal, Jawa Tengah"
+      },
+      {
+        "nama_mitra": "Mikrotik Indonesia Academy",
+        "bidang": "Jaringan Komputer",
+        "deskripsi": "Memberikan pelatihan sertifikasi Mikrotik Certified Network Associate (MTCNA) bagi mahasiswa TKJ.",
+        "lokasi": "Jakarta"
+      },
+      {
+        "nama_mitra": "PT Indosat Ooredoo Hutchison",
+        "bidang": "Infrastruktur Jaringan",
+        "deskripsi": "Mitra industri untuk praktik kerja lapangan di bidang jaringan dan troubleshooting perangkat komunikasi.",
+        "lokasi": "Semarang"
+      },
+      {
+        "nama_mitra": "PT Global Cyber Security",
+        "bidang": "Keamanan Siber",
+        "deskripsi": "Memberikan pelatihan keamanan jaringan dan audit sistem TI.",
+        "lokasi": "Yogyakarta"
+      },
+      {
+        "nama_mitra": "CV Techno Media Web",
+        "bidang": "Pengembangan Web & Server",
+        "deskripsi": "Mendukung proyek mahasiswa dalam pengembangan website server-side dan hosting.",
+        "lokasi": "Tegal"
+      }
+    ],
+
+    "Rekayasa Perangkat Lunak": [
+      {
+        "nama_mitra": "PT GITS Indonesia",
+        "bidang": "Software Development",
+        "deskripsi": "Kerja sama magang dan penelitian di bidang pengembangan aplikasi berbasis Android dan Web.",
+        "lokasi": "Bandung"
+      },
+      {
+        "nama_mitra": "Dicoding Indonesia",
+        "bidang": "Pembelajaran Online & Sertifikasi",
+        "deskripsi": "Mitra pembelajaran resmi untuk peningkatan kompetensi mahasiswa dalam pengembangan aplikasi modern.",
+        "lokasi": "Jakarta"
+      },
+      {
+        "nama_mitra": "PT Dwidasa Samsara Indonesia (DSI)",
+        "bidang": "Enterprise Software",
+        "deskripsi": "Menyediakan bimbingan magang dan riset dalam pengembangan sistem berbasis enterprise dan cloud.",
+        "lokasi": "Jakarta"
+      },
+      {
+        "nama_mitra": "PT Kledo Berhati Nyaman",
+        "bidang": "Software Akuntansi",
+        "deskripsi": "Kolaborasi dalam pengembangan sistem ERP dan pelatihan software as a service (SaaS).",
+        "lokasi": "Yogyakarta"
+      },
+      {
+        "nama_mitra": "PT Arkatama Multi Solusindo",
+        "bidang": "Pengembangan Web & Mobile",
+        "deskripsi": "Mitra lokal untuk proyek akhir mahasiswa dan pelatihan full-stack web development.",
+        "lokasi": "Tegal"
+      }
+    ]
+  }
+}
