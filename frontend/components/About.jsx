@@ -1,9 +1,9 @@
 import React from 'react';
-import bgImage from '../assets/pasted-image-0.png';
-import nisha from '../assets/Rectangle4.png';
-import salwa from '../assets/WhatsAppImage2025.jpg';
-import rafly from '../assets/cdbab7a4.jpeg';
-import dea from '../assets/3.png';
+import bgImage from '../assets/bg-image.png';
+import nisha from '../assets/tentang-2.png';
+import salwa from '../assets/tentang-4.jpg';
+import rafly from '../assets/tentang-1.jpeg';
+import dea from '../assets/tentang-3.png';
 
 function About() {
   return (
@@ -34,13 +34,13 @@ function About() {
           </div>
 
           <div className="tim-isi text-center">
-            <img src={rafly} alt="Rafly Asrafly Rahmat" className="w-32 h-32 object-cover mx-auto rounded-full mb-2" />
-            <p>Rafly Asrafly Rahmat (23.1.9.0049)</p>
+            <img src={rafly} alt="Rafly Ashraffi Rachmat" className="w-32 h-32 object-cover mx-auto rounded-full mb-2" />
+            <p>Rafly Ashraffi Rachmat (23.1.9.0049)</p>
           </div>
 
           <div className="tim-isi text-center">
-            <img src={dea} alt="Dea Wi Guna Pratiwi" className="w-32 h-32 object-cover mx-auto rounded-full mb-2" />
-            <p>Dea Wi Guna Pratiwi (23.1.9.0009)</p>
+            <img src={dea} alt="Deawi Guna Pratiwi" className="w-32 h-32 object-cover mx-auto rounded-full mb-2" />
+            <p>Deawi Guna Pratiwi (23.1.9.0009)</p>
           </div>
         </div>
       </section>
